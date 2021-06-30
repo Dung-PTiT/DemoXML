@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servermember>
+    <serverInfos>
+        <username>member1</username>
+        <password>a1</password>
+        <host>1.1.1.2</host>
+        <port>22</port>
+    </serverInfos>
+    <serverInfos>
+        <username>member2</username>
+        <password>a2</password>
+        <host>1.1.1.3</host>
+        <port>22</port>
+    </serverInfos>
+</servermember>

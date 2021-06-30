@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<common>
+    <snapshotMinuteFilePath>/u03/minute</snapshotMinuteFilePath>
+    <snapshotDayFilePath>/u03/day</snapshotDayFilePath>
+    <snapshotMinuteFileNameFormat>yyyyMMddhhmmss</snapshotMinuteFileNameFormat>
+    <snapshotDayFileNameFormat>yyyyMMdd</snapshotDayFileNameFormat>
+    <snapshotPrefixFilename>snapshot_RBT_</snapshotPrefixFilename>
+    <snapshotSuffixFilename>.txt</snapshotSuffixFilename>
+</common>
